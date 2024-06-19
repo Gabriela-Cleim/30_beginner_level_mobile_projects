@@ -1,7 +1,3 @@
-Claro! Vamos adicionar essa informação na seção de lista de apps:
-
----
-
 # Desafio: 30 Projetos Android em 30 Dias 🚀
 
 ## O Que é Isso?
