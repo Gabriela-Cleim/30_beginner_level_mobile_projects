@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Celsius to Fahrenheit Converter</string>
+    <string name="digite_a_temperatura_em_celsius">Digite a temperatura em Celsius</string>
+    <string name="converter">Converter</string>
+</resources>

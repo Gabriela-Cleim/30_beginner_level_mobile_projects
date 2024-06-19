@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Personalized Welcome Message</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="next">Next</string>
+</resources>
