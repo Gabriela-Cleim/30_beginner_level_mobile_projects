@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Password Field</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="sua_senha_precisa_ter_8_caracteres">*Sua senha precisa ter 8 caracteres</string>
+</resources>
