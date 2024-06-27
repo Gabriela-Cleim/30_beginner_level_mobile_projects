@@ -1,7 +1,7 @@
 # Desafio: 30 Projetos Android em 30 Dias 🚀
 
 ## O Que é Isso?
-Este é um desafio maluco que eu me meti: criar 30 apps Android em Java em apenas um mês! Estou adicionando um projeto novo todos os dias até completar os 30 aplicativos. Prepare-se para uma jornada de aprendizado e diversão.
+Este é um desafio que eu me meti: criar 30 apps Android em Java em apenas um mês! Estou adicionando um projeto novo todos os dias até completar os 30 aplicativos. Prepare-se para uma jornada de aprendizado e diversão.
 
 ## Nível de Dificuldade
 Estamos falando de projetos para iniciantes aqui. Se você é um ninja do Android, pode achar isso básico, mas para quem tá começando como eu, é pura emoção! 😄
@@ -38,6 +38,22 @@ Estamos falando de projetos para iniciantes aqui. Se você é um ninja do Androi
 
 10. **Verificar Par ou Ímpar**
     - Desenvolva um app que verifica se um número inserido pelo usuário é par ou ímpar.
+   
+11. **Campo de Senha**
+    - Verifica a validade de uma senha inserida pelo usuário.
+
+12. **Desativar Botão**
+    - Desativa um botão temporariamente após ser clicado.
+
+13. **Trocar Texto**
+    - Dois botões que alternam o texto exibido.
+
+14. **Alerta Simples**
+    - Exibe um alerta com um botão "OK".
+
+15. **Campo de Texto e Contador de Caracteres**
+    - Conta e exibe o número de caracteres em um campo de texto.
+
 
 *(Continue acompanhando para mais aplicativos todos os dias até completar 30!)*
 
@@ -59,4 +75,4 @@ Sou eu, [Gabs](https://github.com/Gabriela-Cleim), criando um monte de apps só 
 ### Só mais uma coisa...
 Se tiver alguma dica maneira ou se quiser só dar um alô, bota a boca no trombone nos comments. Bora nessa aventura juntos! 🚀
 
-Espero que curta a vibe! Vai com tudo nos projetos! 💪
+Espero que curta a vibe! 💪
